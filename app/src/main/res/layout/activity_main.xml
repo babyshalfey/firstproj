@@ -22,7 +22,7 @@
                 android:id="@+id/textViewGreeting"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Привет!"
+                android:text="Cghbyn 1"
                 android:textSize="20sp" />
 
             <Button
