@@ -22,15 +22,16 @@
                 android:id="@+id/textViewGreeting"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Cghbyn 1"
-                android:textSize="20sp" />
+                android:textAppearance="@style/TextAppearance.App.Title"
+                android:text="Привет!" />
 
             <Button
                 android:id="@+id/buttonClick"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                android:text="Нажми меня" />
+                android:text="Нажми меня"
+                android:backgroundTint="@color/brand_primary"/>
 
             <TextView
                 android:id="@+id/textViewCount"
